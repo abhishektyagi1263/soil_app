@@ -1,4 +1,6 @@
-
+h5  {
+  margin-top: 2rem;
+}
 .mapdiv{
 
   margin-top: 30px;
@@ -18,4 +20,10 @@ body{
 .manual{
   margin-left:20%;
   margin-right:20%;
+}
+
+.card-k {
+  margin-left: 12%;
+  margin-right: 0%;
+
 }
